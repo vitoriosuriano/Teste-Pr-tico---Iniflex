@@ -96,5 +96,8 @@ public class Main {
             System.out.println(f.getNome() + " ganha " + qtd + " salários mínimos");
         });
 
+        // FIM DO PROJETO
+
+        // TESTES REALIZADOS E DE ACORDO
     }
 }
