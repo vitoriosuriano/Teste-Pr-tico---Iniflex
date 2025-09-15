@@ -15,11 +15,11 @@ public class funcionario extends pessoa{
         this.salario = salario;
     }
 
-    public String getFunção() {
+    public String getFuncao() {
         return funcao;
     }
 
-    public void setFunção(String função) {
+    public void setFuncao(String função) {
         this.funcao = função;
     }
 
